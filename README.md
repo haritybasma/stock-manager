@@ -16,4 +16,5 @@ en PHP/MySQL.
 
 ## Aperçu
 
-![Uploading image.png…]()
+<img width="1280" height="578" alt="image" src="https://github.com/user-attachments/assets/0c80d613-93cc-4981-b5cd-67dd1d56cc29" />
+
